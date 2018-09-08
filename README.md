@@ -1,2 +1,2 @@
-# tripkaro
-trip booking portal
+# trip_karo
+Trip Karo, a JSP project to book Trips.
